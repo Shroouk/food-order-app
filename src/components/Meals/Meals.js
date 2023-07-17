@@ -12,3 +12,6 @@ const Meals = () => {
       <AvailableMeals />
     </Fragment>
   );
+};
+
+export default Meals;

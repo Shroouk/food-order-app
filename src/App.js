@@ -25,4 +25,7 @@ function App() {
         <Meals />
       </main>
     </CartProvider>
-  
+  );
+}
+
+export default App;

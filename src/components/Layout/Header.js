@@ -18,3 +18,6 @@ const Header = (props) => {
       </div>
     </Fragment>
   );
+};
+
+export default Header;

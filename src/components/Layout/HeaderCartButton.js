@@ -44,4 +44,4 @@ const HeaderCartButton = (props) => {
   );
 };
 
-export
+export default HeaderCartButton;
